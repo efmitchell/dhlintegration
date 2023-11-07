@@ -14,7 +14,8 @@ This project provides a C# implementation for integrating with DHL's tracking an
 3. Restore NuGet packages.
 4. Add your DHL API key to the configuration, and replace `"your_api_key"` in `DHLController.cs` with your actual API key.
 5. Add the parameters you wish to test in the Program.cs.
-5. Run the application.
+6. Rebuild the project.
+7. Run the application from the executable in the bin file.
 
 ## Usage
 
